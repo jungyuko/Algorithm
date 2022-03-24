@@ -20,11 +20,11 @@ C 언어를 제외한 대부분의 언어는 별도의 문자열 자료형과 �
 # 문제 정보
 파이썬 알고리즘 인터뷰에서 다루는 문자열 조작에서의 문제는 총 6가지가 준비되어 있습니다.
 
-|연번|문제 이름|코드|
-|---:|:---:|---:|
-|01|유효한 팰린드롬||
-|02|문자열 뒤집기||
-|03|로그파일 재정렬||
-|04|가장 흔한 단어||
-|05|그룹 애너그램||
-|06|가장 긴 팰린드롬 부분 문자열||
+|연번|문제 이름|코드|블로그|
+|---:|:---:|:---:|:---:|
+|01|유효한 팰린드롬|[125_Valid_Palindrome.py](https://github.com/jungyuko/Algorithm/blob/main/leetcode/06.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%A1%B0%EC%9E%91/125_Valid_Palindrome.py)|[jungyuko_tistory](https://jungyuko.tistory.com/7)|
+|02|문자열 뒤집기|[344_Reverse_String.py](https://github.com/jungyuko/Algorithm/blob/main/leetcode/06.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%A1%B0%EC%9E%91/344_Reverse_String.py)|[jungyuko_tistory](https://jungyuko.tistory.com/8)|
+|03|로그파일 재정렬|[937_Reorder_Data_in_Log_files.py](https://github.com/jungyuko/Algorithm/blob/main/leetcode/06.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%A1%B0%EC%9E%91/937_Reorder_Data_in_Log_Files.py)|[jungyuko_tistory](https://jungyuko.tistory.com/9)|
+|04|가장 흔한 단어|[819_Most_Common_Word.py](https://github.com/jungyuko/Algorithm/blob/main/leetcode/06.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%A1%B0%EC%9E%91/819.Most_Common_Word.py)|[jungyuko_tistory](https://jungyuko.tistory.com/10)|
+|05|그룹 애너그램|[49_Group_Anagrams.py](https://github.com/jungyuko/Algorithm/blob/main/leetcode/06.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%A1%B0%EC%9E%91/49_Group_Anagrams.py)|[jungyuko_tistory](https://jungyuko.tistory.com/11)|
+|06|가장 긴 팰린드롬 부분 문자열|||
