@@ -1,5 +1,15 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
+        ans = []
+        for i in range(len(nums)-1):                # 처음부터 마지막 바로 전까지 반북
+            for j in range(i+1, len(nums)):         # 현재+1부터 마지막까지 반복
+                if nums[i] + nums[j] == target:     # 두 수의 합이 target이라면
+                    ans.append(i)                   # i, j 인덱스를 ans 배열에 추가
+                    ans.append(j)
+                    return ans                      # 정답 return
+
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
         dic = {}    # 각 list의 값을 key, 각 list의 index를 value
         
         for i, num in enumerate(nums):  # 입력 list만큼 반복한다.
