@@ -22,3 +22,26 @@ class Solution:
         
         return ans
 
+### 브루트포스 2
+class Solution:
+    def threeSum(self, nums: List[int]) -> List[List[int]]:
+        ans = []                # 정답 ans
+        nums = sorted(nums)     # sorting!
+        
+        for i in range(len(nums)-2):                # 0부터 num-2까지 반복
+            if i > 0 and nums[i] == nums[i-1]:      # 
+                continue
+                
+            for j in range(i+1, len(nums)-1):
+                if j > i+1 and nums[j] == nums[j-1]:
+                    continue
+                
+                for k in range(j+1, len(nums)):
+                    if k > j+1 and nums[k] == nums[k-1]:
+                        continue
+
+                    if nums[i] + nums[j] + nums[k] == 0:
+                        # print(nums[i], nums[j], nums[k])
+                        ans.append([nums[k], nums[j], nums[i]])
+                        
+        return ans
