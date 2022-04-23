@@ -25,11 +25,11 @@ class Solution:
 ### 브루트포스 2
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
-        ans = []                # 정답 ans
-        nums = sorted(nums)     # sorting!
+        ans = []                
+        nums = sorted(nums)     
         
-        for i in range(len(nums)-2):                # 0부터 num-2까지 반복
-            if i > 0 and nums[i] == nums[i-1]:      # 
+        for i in range(len(nums)-2):                
+            if i > 0 and nums[i] == nums[i-1]:       
                 continue
                 
             for j in range(i+1, len(nums)-1):
