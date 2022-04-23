@@ -11,6 +11,6 @@
 |01|두 수의 합|[01_Two_Sum.py](https://github.com/jungyuko/Algorithm/blob/main/leetcode/07.%20%EB%B0%B0%EC%97%B4/1_Two_Sum.py)|[jungyuko_tistory](https://jungyuko.tistory.com/13)|
 |02|빗물 트래핑|[42_Trapping_Rain_Water.py](https://github.com/jungyuko/Algorithm/blob/main/leetcode/07.%20%EB%B0%B0%EC%97%B4/42_Trapping_Rain_Water.py)|[jungyuko_tistory](https://jungyuko.tistory.com/14)|
 |03|세 수의 합|[15_3Sum.py](https://github.com/jungyuko/Algorithm/blob/main/leetcode/07.%20%EB%B0%B0%EC%97%B4/15_3Sum.py)|[jungyuko_tistory](https://jungyuko.tistory.com/15)|
-|04|배열 파티션 I|[561_Array_Partition_I.py]https://github.com/jungyuko/Algorithm/blob/main/leetcode/07.%20%EB%B0%B0%EC%97%B4/561_Array_Partition_I.py)|[jungyuko_tistory](https://jungyuko.tistory.com/16)|
+|04|배열 파티션 I|[561_Array_Partition_I.py](https://github.com/jungyuko/Algorithm/blob/main/leetcode/07.%20%EB%B0%B0%EC%97%B4/561_Array_Partition_I.py)|[jungyuko_tistory](https://jungyuko.tistory.com/16)|
 |05|자신을 제외한 배열의 곱|||
 |06|주식을 사고팔기 가장 좋은 시점|||
